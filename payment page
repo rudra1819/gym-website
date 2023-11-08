@@ -1,83 +1,209 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <style>
-            body{background-size:100%;
-                
-                background-repeat: no-repeat;
-            }
-            button{background-color:rgb(250, 05, 50);
-                color: white;
-            
-            }
-            
-            
-        </style>
-
-    </head>
-    <title> membership</title>
-    <body style="background-image: url('https://wallpapercave.com/wp/wc1683075.jpg');">
-        <h1 style="color:red"><b><bg>FITNESS FACTORY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            
-            <button onclick="window.location.href='http://192.168.29.104:5500/html.html/bharat.html';">HOME</button></bg></b> </h1>  
-
-        <h1 style="color: rgb(85, 211, 211);">GYM MEMBERSHIP IS HERE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <bg><b>"PERFECTION</b></bg> 
-            <b>take care of your body"</b></h1> 
-       
-        <details>
-            <summary style="color:yellow"><bg><b> DIET PLANS</b></bg></summary> 
-            <P STYLE="Color: pink "><blockquote>
-                <li style="color: pink"><bg><b>Beans and legumes:</b></bg> Chickpeas, lentils, kidney beans, black beans, and pinto beans.
-                 </li><br>
-                <li style="color: pink"><bg><b>Dairy:</b></bg> Yogurt, cottage cheese, low fat milk, and cheese</li><br>
-                <li style="color: pink"><bg><b>Grains:</b></bg> Bread, cereal, crackers, oatmeal, quinoa, popcorn, and rice.</li><br>
-                <li style="color: pink"><bg><b>Fruits:</b></bg> Oranges, apples, bananas, grapes, pears, peaches, watermelon, and berries.</li><br>
-                <li style="color: pink"><bg><b>Starchy vegetables:</b></bg> Potatoes, corn, green peas, green lima beans, and cassava.
-                </li><br>
-                <li style="color: pink"><bg><b>Vegetables:</b></bg> Broccoli, spinach, tomatoes, green beans, cucumber,  peppers, and mushrooms.
-                   </li><br>
-                <li style="color: pink"><bg><b>Seeds and nuts:</b></bg> Almonds, walnuts, sunflower seeds, chia seeds, and flax seeds. 
-                    <br>
-                    <br>
-                    
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <button >buy diet plan</button>
-                </li><br>
-                </blockquote>
-            </P>
-        </details>
-
-        <details>
-        <summary style="color:yellow"><bg><b> VARIETY OF GYM MEMBERSHIP</b></bg></summary>
-        <P STYLE="Color: white "><blockquote>
-            <li style="color: pink"><bg><b>Best Gym Membership:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
-            <li style="color: pink"><bg><b> Gym Membership for begginers:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
-            <li style="color: pink"><bg><b> Gym Membership for Travelers:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
-            <li style="color: pink"><bg><b> Gym Membership for lifting:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
-            <li style="color: pink"><bg><b> Gym Membership for intermediate:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
-
-
-
-
-        </blockquote>
-        </P>
-    </details>
+ 
+<head>
+    <!-- Include Bootstrap for styling -->
+  <link rel="stylesheet" href=
+  "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+   
+    <style>
+      .qr-code {
+        max-width: 200px;
+        margin: 10px;
+      }
+    select{background-color: black;
+    color: white;}
     
-    </body>
+    button{background-color:rgb(250, 05, 50);
+    color: white;} 
+   
+    h4{
+        color: rgb(202, 43, 69);
+    }
+  
+  
+    body{background-size: 100%;}
+    label{color: pink;}
+  </style>
+ 
+  <title>payment</title>
+</head>
+ 
+<body style="background-image: url('https://wallpapercave.com/wp/wp5339178.jpg');">
+    <h1 style="color:red"><b><bg>FITNESS FACTORY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/bharat.html';">home</button></bg></b> </h1>
+    <h3 style="color: yellow;">FILL THE FORM</h3>
+    <label for="fruit">&nbsp;&nbsp;GYM type:</label>
+    <select name="month" size="1">
+           <option>gym </option>
+           <option>gym + trainer</option>
+           <option> jumba </option>
+           <option> Aerobics</option>
+    </select>
+    <br>
     
->
+        
+        <label for="fruit">&nbsp;&nbsp;membership time-period:</label>
+     <select name="month" size="1">
+            <option>1 month = 500 rs</option>
+            <option>3 month 1350 rs</option>
+            <option>6 month 2700 rs</option>
+            <option>12 month 5400 rs</option>
+     </select>
+     
+     <br>
+     <label for="fruit">&nbsp;&nbsp;payment type:</label>
+     <select name="payment type" size="1">
+            
+            <option> QR code</option>
+            <option> debit/credit card</option>
+            <option> any other </option>
+            
+     </select>
 
+
+
+
+
+     <div class="container-fluid">
+        <div class="text-center">
+     
+          <!-- Get a Placeholder image initially,
+           this will change according to the
+           data entered later -->
+          <img src=
+    "https://chart.googleapis.com/chart?cht=qr&chl=Hello+World&chs=160x160&chld=L|0"
+            class="qr-code img-thumbnail img-responsive" />
+        </div>
+     
+        <div class="form-horizontal">
+          <div class="form-group">
+            <label class="control-label col-sm-2"
+              for="content">
+              Content:
+            </label>
+            <div class="col-sm-10">
+     
+              <!-- Input box to enter the 
+                  required data -->
+              <input type="text" size="20"
+                maxlength="20" class="form-control"
+                id="content" placeholder="holder name" />
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+     
+              <!-- Button to generate QR Code for
+               the entered data -->
+              <button type="button" class=
+                "btn btn-default" id="generate">
+                Generate
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script src=
+        "https://code.jquery.com/jquery-3.5.1.js">
+      </script>
+     
+      <script>
+        // Function to HTML encode the text
+        // This creates a new hidden element,
+        // inserts the given text into it 
+        // and outputs it out as HTML
+        function htmlEncode(value) {
+          return $('<div/>').text(value)
+            .html();
+        }
+     
+        $(function () {
+     
+          // Specify an onclick function
+          // for the generate button
+          $('#generate').click(function () {
+     
+            // Generate the link that would be
+            // used to generate the QR Code
+            // with the given data 
+            let finalURL =
+    'https://chart.googleapis.com/chart?cht=qr&chl=' +
+              htmlEncode($('#content').val()) +
+              '&chs=160x160&chld=L|0'
+     
+            // Replace the src of the image with
+            // the QR code image
+            $('.qr-code').attr('src', finalURL);
+          });
+        });
+      </script>
+  
+
+
+
+
+  
+    <div class="form-header">
+      <h4 class="title">Credit card detail</h4>
+    </div>
+   
+    <div class="form-body">
+      <!-- Card Number -->
+      <input type="text" class="card-number" placeholder="Card Number">
+   
+      <!-- Date Field -->
+      <div class="date-field">
+        <div class="month">
+          <select name="Month">
+            <option value="january">January</option>
+            <option value="february">February</option>
+            <option value="march">March</option>
+            <option value="april">April</option>
+            <option value="may">May</option>
+            <option value="june">June</option>
+            <option value="july">July</option>
+            <option value="august">August</option>
+            <option value="september">September</option>
+            <option value="october">October</option>
+            <option value="november">November</option>
+            <option value="december">December</option>
+          </select>
+        </div>
+        <div class="year">
+          <select name="Year">
+            <option value="2016">2016</option>
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+            <option value="2021">2021</option>
+            <option value="2022">2022</option>
+            <option value="2023">2023</option>
+            <option value="2024">2024</option>
+          </select>
+        </div>
+      </div>
+   
+      <!-- Card Verification Field -->
+      <div class="card-verification">
+        <div class="cvv-input">
+          <input type="text" placeholder="CVV">
+        </div>
+        <div class="cvv-details">
+          
+        </div>
+      </div>
+   
+      <!-- Buttons -->
+      <button type="submit" class="proceed-btn"><a href="#">Proceed</a></button>
+      
+    </div>
+  </form>
+</body>
+ 
 </html>
