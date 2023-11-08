@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{background-size:100%;
+                
+                background-repeat: no-repeat;
+            }
+            button{background-color:rgb(250, 05, 50);
+                color: white;
+            
+            }
+            form{
+                color: palegreen;
+            }
+            
+            table, thead, tr
+             {
+             border: 1px solid palegreen;
+             color: pink;
+             text-align: center;
+             width: max-content;
+             
+            }
+            
+            
+            input{
+                background-color:rgb(31, 28, 28) ;
+                color: white;
+            }
+
+        </style>
+
+    </head>
+
+    <title> buy now</title>
+
+    <body style="background-image: url('https://wallpapercave.com/wp/wp2491522.jpg');">
+        <h1 style="color:red"><b><bg>FITNESS FACTORY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            
+            
+<button onclick="window.location.href='http://192.168.29.104:5500/html.html/bharat.html';">home</button> 
+&nbsp;&nbsp;&nbsp;
+<button onclick="window.location.href='http://192.168.29.104:5500/html.html/membership.html';">MEMBERSHIP</button></bg></b> </h1>
+        
+        <h1 style="color: yellow;"> 10% less charges</h1>
+
+<table >
+  <thead>
+    <tr>
+      <th>Month</th>
+      <th>charges</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3 months</td>
+      <td><del>1500 rs</del>&nbsp; = 1350 rs</td>
+    </tr>
+    <tr>
+      <td>6 months</td>
+      <td><del>3000rs</del>&nbsp; = 2700rs</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>12 month</td>
+      <td><del>6000 rs</del>&nbsp; = 5400 rs</td>
+    </tr>
+  </tfoot>
+</table>
+<br>
+
+
+<summary style="color: yellow;">give your identity for register yourself</summary>
+<blockquote>
+        <form>
+            <label for="fname">First name:</label>
+            &nbsp;&nbsp;&nbsp;
+            <input type="text" id="fname" name="fname" pattern="[A-Za-z]{3}" required><br><br>
+            <label for="lname">Last name:</label>
+            &nbsp;&nbsp;&nbsp;
+            <input type="text" id="lname" name="lname" pattern="[A-Za-z]{3}"><br><br>            
+            <div>
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+              </div>
+              <br>
+              
+              <div>
+                <label for="pass">Password (8 characters minimum):</label>
+                <input type="password" id="pass" name="password" minlength="8" required />
+              </div>
+              <br>
+
+            <label for="birthday">date of birth:</label>
+            &nbsp;&nbsp;&nbsp;
+            <input type="date" id="birthday" name="birthday"required>
+            <br>
+            <br>
+            <label for="avatar">Choose a profile picture:</label>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<input type="file" id="avatar" name="avatar" accept="image/png, image/jpeg"required />
+<br>
+<br>
+<label for="phone">Enter your phone number:</label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required />
+<br>
+<br>
+
+<label for="fruit">membership time-period:</label>
+<select name="month" size="1">
+    <option>1 month</option>
+  <option>3 month</option>
+  <option>6 month</option>
+  <option>12 month</option>
+</select>
+           
+  
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <input type="submit" value="Submit for payment">
+  <button onclick="window.location.href='http://192.168.29.104:5500/html.html/payment.html#';">payment</button>
+  
+          </form>
+        </blockquote>
+        <h1 style="color: yellow;"># book your membership now</h1>
+    </body>
+</html>
