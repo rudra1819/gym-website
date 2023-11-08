@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{background-size:100%;
+                
+                background-repeat: no-repeat;
+            }
+            button{background-color:rgb(250, 05, 50);
+                color: white;
+            
+            }
+            
+            
+        </style>
+
+    </head>
+    <title> membership</title>
+    <body style="background-image: url('https://wallpapercave.com/wp/wc1683075.jpg');">
+        <h1 style="color:red"><b><bg>FITNESS FACTORY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            
+            <button onclick="window.location.href='http://192.168.29.104:5500/html.html/bharat.html';">HOME</button></bg></b> </h1>  
+
+        <h1 style="color: rgb(85, 211, 211);">GYM MEMBERSHIP IS HERE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <bg><b>"PERFECTION</b></bg> 
+            <b>take care of your body"</b></h1> 
+       
+        <details>
+            <summary style="color:yellow"><bg><b> DIET PLANS</b></bg></summary> 
+            <P STYLE="Color: pink "><blockquote>
+                <li style="color: pink"><bg><b>Beans and legumes:</b></bg> Chickpeas, lentils, kidney beans, black beans, and pinto beans.
+                 </li><br>
+                <li style="color: pink"><bg><b>Dairy:</b></bg> Yogurt, cottage cheese, low fat milk, and cheese</li><br>
+                <li style="color: pink"><bg><b>Grains:</b></bg> Bread, cereal, crackers, oatmeal, quinoa, popcorn, and rice.</li><br>
+                <li style="color: pink"><bg><b>Fruits:</b></bg> Oranges, apples, bananas, grapes, pears, peaches, watermelon, and berries.</li><br>
+                <li style="color: pink"><bg><b>Starchy vegetables:</b></bg> Potatoes, corn, green peas, green lima beans, and cassava.
+                </li><br>
+                <li style="color: pink"><bg><b>Vegetables:</b></bg> Broccoli, spinach, tomatoes, green beans, cucumber,  peppers, and mushrooms.
+                   </li><br>
+                <li style="color: pink"><bg><b>Seeds and nuts:</b></bg> Almonds, walnuts, sunflower seeds, chia seeds, and flax seeds. 
+                    <br>
+                    <br>
+                    
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <button >buy diet plan</button>
+                </li><br>
+                </blockquote>
+            </P>
+        </details>
+
+        <details>
+        <summary style="color:yellow"><bg><b> VARIETY OF GYM MEMBERSHIP</b></bg></summary>
+        <P STYLE="Color: white "><blockquote>
+            <li style="color: pink"><bg><b>Best Gym Membership:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
+            <li style="color: pink"><bg><b> Gym Membership for begginers:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
+            <li style="color: pink"><bg><b> Gym Membership for Travelers:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
+            <li style="color: pink"><bg><b> Gym Membership for lifting:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
+            <li style="color: pink"><bg><b> Gym Membership for intermediate:</b></bg>&nbsp;&nbsp;&nbsp;&nbsp;<button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';">buy now</button></li>
+
+
+
+
+        </blockquote>
+        </P>
+    </details>
+    
+    </body>
+    
+>
+
+</html>
