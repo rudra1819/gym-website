@@ -1,2 +1,63 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html>
+    
+    <head lang ='en'>
+        <style>
+            
+            h1{ size: 25%;
+                text-align: left;
+            }
+            button{background-color:rgb(250, 05, 50);
+
+                color: white;
+            
+            }
+            body{background-size: 100%;}
+            h1{text-align: center;
+            color: white;}
+            
+        </style>
+
+       
+    </head>
+
+
+<title> home page</title>
+
+    <body style="background-image: url('https://wallpapercave.com/wp/wp2482799.jpg');"
+    
+    
+    >    
+        <h1 style="color:red"><b><bg>FITNESS FACTORY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;
+           
+           <button >HOME</button>  
+           &nbsp;&nbsp;
+        
+           <button onclick="window.location.href='http://192.168.29.104:5500/html.html/membership.html';">MEMBERSHIP</button>
+           &nbsp;&nbsp;&nbsp;
+            
+            <button >ABOUT</button>  
+            &nbsp;&nbsp;&nbsp;
+            <button onclick="window.location.href='http://192.168.29.104:5500/html.html/contactus.html';">CONTACT/SUPPORT</button>
+            &nbsp;&nbsp;&nbsp;
+            <button onclick="window.location.href='http://192.168.29.104:5500/html.html/buy%20now.html';" >JOIN NOW</button>   
+            &nbsp;&nbsp;&nbsp;
+            
+             </bg></b></h1>
+        
+             <h1 style="color:white;">KEEP IN YOUR MIND</h1>
+            <h1 style="color:rgb(250, 05, 50) ;">“Wake up with determination, </h1>
+            <h1 style="color:rgb(250, 05, 50) ;"> go to bed with satisfaction.”</h1>
+             
+             
+             
+              
+    </body>
+
+</html>
